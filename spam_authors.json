@@ -1,0 +1,2372 @@
+{
+ "blockedAuthors": [
+  "76561197969133864",
+  "76561197990803262",
+  "76561198003177389",
+  "76561198037307274",
+  "76561198059065114",
+  "76561198066128017",
+  "76561198088420709",
+  "76561198091773178",
+  "76561198118687531",
+  "76561198118942950",
+  "76561198130862519",
+  "76561198183077415",
+  "76561198191682302",
+  "76561198230053848",
+  "76561198239779896",
+  "76561198243999634",
+  "76561198253543947",
+  "76561198254192526",
+  "76561198259788916",
+  "76561198307271743",
+  "76561198320662800",
+  "76561198326038980",
+  "76561198347238066",
+  "76561198358020820",
+  "76561198397839156",
+  "76561198430831406",
+  "76561198431625844",
+  "76561198437894426",
+  "76561198443643169",
+  "76561198629018776",
+  "76561198651200922",
+  "76561198652930315",
+  "76561198655366620",
+  "76561198669558917",
+  "76561198671098007",
+  "76561198672697630",
+  "76561198676859306",
+  "76561198683134907",
+  "76561198694076537",
+  "76561198704406704",
+  "76561198712969184",
+  "76561198718952531",
+  "76561198735167853",
+  "76561198737000108",
+  "76561198739797066",
+  "76561198741971035",
+  "76561198744910375",
+  "76561198747134160",
+  "76561198749593899",
+  "76561198755578887",
+  "76561198755980696",
+  "76561198756843436",
+  "76561198758407016",
+  "76561198758640320",
+  "76561198760948662",
+  "76561198761296661",
+  "76561198763494571",
+  "76561198765537559",
+  "76561198767933658",
+  "76561198768740666",
+  "76561198772322914",
+  "76561198773925331",
+  "76561198774348464",
+  "76561198774733466",
+  "76561198776749975",
+  "76561198781965273",
+  "76561198782094028",
+  "76561198785295261",
+  "76561198785773497",
+  "76561198788592675",
+  "76561198789142197",
+  "76561198789578355",
+  "76561198789694805",
+  "76561198791311700",
+  "76561198791749771",
+  "76561198791992102",
+  "76561198792500406",
+  "76561198792805522",
+  "76561198793337768",
+  "76561198793518597",
+  "76561198794847389",
+  "76561198795018251",
+  "76561198795176389",
+  "76561198795227652",
+  "76561198799418989",
+  "76561198805516108",
+  "76561198810745866",
+  "76561198815951125",
+  "76561198823082442",
+  "76561198831857530",
+  "76561198839783121",
+  "76561198845196116",
+  "76561198848478534",
+  "76561198877172829",
+  "76561198880874357",
+  "76561198892109995",
+  "76561198918227913",
+  "76561198996299919",
+  "76561198998184581",
+  "76561199027920598",
+  "76561199041837759",
+  "76561199049244229",
+  "76561199054043553",
+  "76561199058676385",
+  "76561199062077111",
+  "76561199066736900",
+  "76561199072226150",
+  "76561199088411474",
+  "76561199090997388",
+  "76561199093041403",
+  "76561199100515957",
+  "76561199112027984",
+  "76561199115746062",
+  "76561199137689320",
+  "76561199156907769",
+  "76561199164469382",
+  "76561199166728345",
+  "76561199166849401",
+  "76561199174200852",
+  "76561199183106871",
+  "76561199187048750",
+  "76561199212260895",
+  "76561199237072107",
+  "76561199240812706",
+  "76561199319250574",
+  "76561199321067426",
+  "76561199366356296",
+  "76561199372874920",
+  "76561199379426221",
+  "76561199388166576",
+  "76561199418256398",
+  "76561199437983526",
+  "76561199446060054",
+  "76561199469716198",
+  "76561199470353641",
+  "76561199470663084",
+  "76561199473433901",
+  "76561199477266378",
+  "76561199489637451",
+  "76561199505496543",
+  "76561199506168722",
+  "76561199511978793",
+  "76561199521945429",
+  "76561199522621585",
+  "76561199529491993",
+  "76561199544820511",
+  "76561199545059054",
+  "76561199562767985",
+  "76561199586140504",
+  "76561199594254978",
+  "76561199603080504",
+  "76561199609425678",
+  "76561199610472005",
+  "76561199611259421",
+  "76561199630025827",
+  "76561199641974264",
+  "76561199654346604",
+  "76561199655874733",
+  "76561199666536725",
+  "76561199678600898",
+  "76561199678877412",
+  "76561199702618240",
+  "76561199709236686",
+  "76561199746902720",
+  "76561199767869359",
+  "76561199777922341",
+  "76561199779433032",
+  "76561199781712417",
+  "76561199786659009",
+  "76561199789015291",
+  "76561199801717295",
+  "76561199802141292",
+  "76561199804825715",
+  "76561199805426789",
+  "76561199807946383",
+  "76561199814514550",
+  "76561199822343702",
+  "76561199823821090",
+  "76561199826882150",
+  "76561199830510174",
+  "76561199832110931",
+  "76561199833079841",
+  "76561199834332819",
+  "76561199835569504",
+  "76561199839654244",
+  "76561199843320186",
+  "76561199844535322",
+  "76561199847679257",
+  "76561199854981277",
+  "76561199855397966",
+  "76561199855408580",
+  "76561199855767945",
+  "76561199856007597",
+  "76561199856456177",
+  "76561199856512754",
+  "76561199856589331",
+  "76561199856911674",
+  "76561199856927696",
+  "76561199857203865",
+  "76561199857274968",
+  "76561199857284556",
+  "76561199857295920",
+  "76561199857298000",
+  "76561199857428652",
+  "76561199857478336",
+  "76561199857484378",
+  "76561199857521736",
+  "76561199857557265",
+  "76561199857661500",
+  "76561199857662793",
+  "76561199857663264",
+  "76561199857683654",
+  "76561199857899190",
+  "76561199858002681",
+  "76561199858003103",
+  "76561199858058300",
+  "76561199858075626",
+  "76561199858181683",
+  "76561199858183407",
+  "76561199858246357",
+  "76561199858256249",
+  "76561199858483854",
+  "76561199858504301",
+  "76561199858809935",
+  "76561199858823911",
+  "76561199858953096",
+  "76561199859151489",
+  "76561199859201661",
+  "76561199859682713",
+  "76561199860172958",
+  "76561199870892011",
+  "76561199871666667",
+  "76561199873281525",
+  "76561199873490946",
+  "76561199875031889",
+  "76561199875124561",
+  "76561199876490778",
+  "76561199876491594",
+  "76561199877047535",
+  "76561199877386562",
+  "76561199877406508",
+  "76561199878283555",
+  "76561199878637314",
+  "76561199878851293",
+  "76561199879395465",
+  "76561199881237080",
+  "76561199881677426",
+  "76561199882092909",
+  "76561199882167856",
+  "76561199882714484",
+  "76561199883244967",
+  "76561199883488760",
+  "76561199883568512",
+  "76561199884634654",
+  "76561199884696639",
+  "76561199884723703",
+  "76561199885587102",
+  "76561199885922996",
+  "76561199886285871",
+  "76561199886447633",
+  "76561199886638597",
+  "76561199886740726",
+  "76561199886982308",
+  "76561199887561185",
+  "76561199887692131",
+  "76561199888313626",
+  "76561199889348391",
+  "76561199890641447",
+  "76561199891114128"
+ ],
+ "details": {
+  "76561199779433032": {
+   "maps": 5,
+   "spam": 5,
+   "titles": [
+    "AWP Lego WINTER",
+    "❄️ Dust II | Winter Edition",
+    "RANDOM MODELS (MIRAGE WINTER)"
+   ]
+  },
+  "76561199237072107": {
+   "maps": 4,
+   "spam": 4,
+   "titles": [
+    "Mirage War (Война)",
+    "MIRAGE BRAINROT",
+    "MIRAGE ONLINE"
+   ]
+  },
+  "76561198088420709": {
+   "maps": 4,
+   "spam": 4,
+   "titles": [
+    "HIDE and Seek (Маньяк)",
+    "Dust2 Война (WAR)",
+    "MIRAGE CHEATS"
+   ]
+  },
+  "76561199511978793": {
+   "maps": 2,
+   "spam": 2,
+   "titles": [
+    "СПОСОБНОСТИ КОМБИНИРУЮТСЯ, 3 РАНЗЫЕ СПОСОБНОСТИ",
+    "AWP LEGO С ДИГЛОМ ТОЛЬКО В ГОЛОВУ"
+   ]
+  },
+  "76561199807946383": {
+   "maps": 4,
+   "spam": 4,
+   "titles": [
+    "Dust 2 Online",
+    "Mirage Models",
+    "AWP Lego2 Cannons BHOP"
+   ]
+  },
+  "76561199603080504": {
+   "maps": 4,
+   "spam": 4,
+   "titles": [
+    "Dust2 War (Война)",
+    "AWP LEGO 2",
+    "JAILBREAK (Тюрьма)"
+   ]
+  },
+  "76561199875124561": {
+   "maps": 2,
+   "spam": 2,
+   "titles": [
+    "MIRAGE WARS (ВОЙНА)",
+    "MIRAGE CHEATS RANODM"
+   ]
+  },
+  "76561198774348464": {
+   "maps": 3,
+   "spam": 3,
+   "titles": [
+    "Mirage Walls",
+    "Dust2 Online",
+    "Sandstone BHOP"
+   ]
+  },
+  "76561199505496543": {
+   "maps": 4,
+   "spam": 4,
+   "titles": [
+    "Mirage BHOP",
+    "AWP Lego2 Models",
+    "Sandstone BHOP"
+   ]
+  },
+  "76561198712969184": {
+   "maps": 2,
+   "spam": 2,
+   "titles": [
+    "MIRAGE BHOP ONLINE",
+    "DUST2 RANDOM MODELS"
+   ]
+  },
+  "76561199777922341": {
+   "maps": 3,
+   "spam": 3,
+   "titles": [
+    "AWP Lego2 BHOP",
+    "Mirage FPS",
+    "Mirage Random Models"
+   ]
+  },
+  "76561199054043553": {
+   "maps": 2,
+   "spam": 2,
+   "titles": [
+    "MIRAGE RANDOM MODELS",
+    "AWP LEGO 2 BHOP"
+   ]
+  },
+  "76561198747134160": {
+   "maps": 2,
+   "spam": 2,
+   "titles": [
+    "МИРАЖ СО СПОСОБНОСТЯМИ, ВХ СПОСОБНОСТИ",
+    "СПОСОБНОСТИ ВХ, АИМА, МАЙНКРАФТА"
+   ]
+  },
+  "76561198672697630": {
+   "maps": 1,
+   "spam": 1,
+   "titles": [
+    "AWP LEGO 2 ONLINE"
+   ]
+  },
+  "76561199240812706": {
+   "maps": 4,
+   "spam": 4,
+   "titles": [
+    "MIRAGE DUELS",
+    "SANDSTONE",
+    "MIRAGE CHEATS"
+   ]
+  },
+  "76561199100515957": {
+   "maps": 2,
+   "spam": 2,
+   "titles": [
+    "MIRAGE CHEATS RANDOM",
+    "MIRAGE WINTER ONLINE"
+   ]
+  },
+  "76561198239779896": {
+   "maps": 4,
+   "spam": 4,
+   "titles": [
+    "Dust2 Models",
+    "Dust 2 Online",
+    "Dust2 FPS"
+   ]
+  },
+  "76561199877386562": {
+   "maps": 4,
+   "spam": 4,
+   "titles": [
+    "Dust2 FPS",
+    "Sandstone Models",
+    "Mirage Random Skills"
+   ]
+  },
+  "76561199857683654": {
+   "maps": 2,
+   "spam": 2,
+   "titles": [
+    "AWP LEGO 2 BHOP ONLINE",
+    "HIDE AND SEEK (DOUBLE JUMP) MANIAC"
+   ]
+  },
+  "76561198671098007": {
+   "maps": 2,
+   "spam": 2,
+   "titles": [
+    "СПОСОБНОСТИ НА МИРАЖЕ С ТЕЛЕПОРТОМ, СКОРОСТЬЮ И Т,Д",
+    "СПОСОБНОСТИ НА МИРАЖЕ С ТЕЛЕПОРТОМ, СКОРОСТЬЮ И Т,Д"
+   ]
+  },
+  "76561199366356296": {
+   "maps": 5,
+   "spam": 5,
+   "titles": [
+    "RANDOM CHEATS (+100 FPS MIRAGE)",
+    "AWP LEGO 2",
+    "AWP LEGO 2"
+   ]
+  },
+  "76561198669558917": {
+   "maps": 2,
+   "spam": 2,
+   "titles": [
+    "Jailbreak",
+    "MIRAGE FPS (+100 FPS)"
+   ]
+  },
+  "76561199522621585": {
+   "maps": 1,
+   "spam": 1,
+   "titles": [
+    "RANDOM CHEATS (MIRAGE)"
+   ]
+  },
+  "76561198741971035": {
+   "maps": 3,
+   "spam": 3,
+   "titles": [
+    "Sandstone Remake",
+    "AWP Lego2 BHOP",
+    "AWP Lego2 Models"
+   ]
+  },
+  "76561199062077111": {
+   "maps": 2,
+   "spam": 2,
+   "titles": [
+    "RANDOM CHEATS (MIRAGE)",
+    "Jailbreak"
+   ]
+  },
+  "76561199166849401": {
+   "maps": 1,
+   "spam": 1,
+   "titles": [
+    "MIRAGE RANDOM CARDS (CHEATS)"
+   ]
+  },
+  "76561198772322914": {
+   "maps": 1,
+   "spam": 1,
+   "titles": [
+    "RANDOM MODELS (WINTER DUST 2)"
+   ]
+  },
+  "76561198651200922": {
+   "maps": 2,
+   "spam": 2,
+   "titles": [
+    "MIRAGE FREE SKINS",
+    "AWP_LEGO_2"
+   ]
+  },
+  "76561199832110931": {
+   "maps": 1,
+   "spam": 1,
+   "titles": [
+    "Dojo — разминка и тренировка"
+   ]
+  },
+  "76561199388166576": {
+   "maps": 4,
+   "spam": 4,
+   "titles": [
+    "AWP Lego2 BHOP",
+    "Mirage Walls",
+    "Mirage Random Skills"
+   ]
+  },
+  "76561199088411474": {
+   "maps": 4,
+   "spam": 4,
+   "titles": [
+    "Awp Lego2 Models",
+    "Awp Lego2 Models",
+    "Dust2 Online"
+   ]
+  },
+  "76561199066736900": {
+   "maps": 1,
+   "spam": 1,
+   "titles": [
+    "Awp_Cartoon_2"
+   ]
+  },
+  "76561199823821090": {
+   "maps": 2,
+   "spam": 2,
+   "titles": [
+    "AWP LEGO 2",
+    "RANDOM CHEATS (SANDSTONE)"
+   ]
+  },
+  "76561198347238066": {
+   "maps": 5,
+   "spam": 4,
+   "titles": [
+    "Awp_India_Night | CSRIFT",
+    "Mirage Night | CSRIFT",
+    "Dust 2 Night | CSRIFT"
+   ]
+  },
+  "76561198718952531": {
+   "maps": 2,
+   "spam": 2,
+   "titles": [
+    "МИРАЖ СО СПОСОБНОСТЯМИ, ВХ СПОСОБНОСТИ",
+    "РАНДОМНЫЕ СПОСОБНОСТИ+БАННИХОП"
+   ]
+  },
+  "76561198810745866": {
+   "maps": 3,
+   "spam": 2,
+   "titles": [
+    "🎄 AWP Christmas | Новогодняя арена — Crazy WCS",
+    "CRAZY WCS — VIP Models Pack #1 | 20 Player Skins"
+   ]
+  },
+  "76561199709236686": {
+   "maps": 5,
+   "spam": 5,
+   "titles": [
+    "RANDOM CARDS (CHEATS) ONLINE",
+    "MIRAGE RANDOM CHEATS",
+    "AWP LEGO 2 ONLINE"
+   ]
+  },
+  "76561198704406704": {
+   "maps": 4,
+   "spam": 4,
+   "titles": [
+    "MIRAGE BHOP ONLINE",
+    "MIRAGE RANDOM CHEATS ONLINE",
+    "AWP LEGO 2 ONLINE"
+   ]
+  },
+  "76561198749593899": {
+   "maps": 4,
+   "spam": 4,
+   "titles": [
+    "MIRAGE FPS BOOST ONLINE",
+    "MIRAGE CHEATS (CARDS) RANDOM",
+    "MIRAGE ONLINE"
+   ]
+  },
+  "76561198839783121": {
+   "maps": 3,
+   "spam": 3,
+   "titles": [
+    "mirage christmas",
+    "FUN_MODELS",
+    "Orenti_Skins"
+   ]
+  },
+  "76561198320662800": {
+   "maps": 3,
+   "spam": 2,
+   "titles": [
+    "Mirage grenades. by Joffy",
+    "Dust 2 grenades. by Joffy"
+   ]
+  },
+  "76561198191682302": {
+   "maps": 1,
+   "spam": 1,
+   "titles": [
+    "MIRAGE FREE SKINS"
+   ]
+  },
+  "76561198831857530": {
+   "maps": 1,
+   "spam": 1,
+   "titles": [
+    "de_mirage_christmas"
+   ]
+  },
+  "76561199058676385": {
+   "maps": 1,
+   "spam": 1,
+   "titles": [
+    "MIRAGE WAR WORLD"
+   ]
+  },
+  "76561199781712417": {
+   "maps": 3,
+   "spam": 3,
+   "titles": [
+    "Mirage Winter BHOP",
+    "MIRAGE ONLINE",
+    "MIRAGE WAR (Война)"
+   ]
+  },
+  "76561199887561185": {
+   "maps": 1,
+   "spam": 1,
+   "titles": [
+    "Ночной Mirage (Night Mirage)"
+   ]
+  },
+  "76561199855408580": {
+   "maps": 1,
+   "spam": 1,
+   "titles": [
+    "Японский Mirage (JAPAN MIRAGE)"
+   ]
+  },
+  "76561199855767945": {
+   "maps": 1,
+   "spam": 1,
+   "titles": [
+    "Зимний Mirage (de_mirage_winter)"
+   ]
+  },
+  "76561198652930315": {
+   "maps": 1,
+   "spam": 1,
+   "titles": [
+    "MIRAGE FREE SKINS"
+   ]
+  },
+  "76561198443643169": {
+   "maps": 3,
+   "spam": 3,
+   "titles": [
+    "MIRAGE WARS (ВОЙНА)",
+    "MIRAGE RANDOM CARDS (CHEATS)",
+    "MANIAC DOUBLE JUMP (HIDE AND SEEK) ONLINE"
+   ]
+  },
+  "76561198066128017": {
+   "maps": 1,
+   "spam": 1,
+   "titles": [
+    "SANDSTONE (КАРТА ИЗ STANDOFF 2)"
+   ]
+  },
+  "76561197990803262": {
+   "maps": 3,
+   "spam": 3,
+   "titles": [
+    "ПОБЕГ ИЗ ТЮРЬМЫ • JAILBREAK CS2",
+    "JAILBREAK ONLINE",
+    "ПОБЕГ ИЗ ТЮРЬМЫ • JAILBREAK CS2"
+   ]
+  },
+  "76561198694076537": {
+   "maps": 3,
+   "spam": 3,
+   "titles": [
+    "Dust2 Winter",
+    "DUST2 WAR (Война)",
+    "MIRAGE ONLINE"
+   ]
+  },
+  "76561198091773178": {
+   "maps": 1,
+   "spam": 1,
+   "titles": [
+    "Dust2 Nades by Woody"
+   ]
+  },
+  "76561199857557265": {
+   "maps": 5,
+   "spam": 5,
+   "titles": [
+    "Dust2 FPS+",
+    "Dust2 Models",
+    "Vertigo Online"
+   ]
+  },
+  "76561198823082442": {
+   "maps": 2,
+   "spam": 2,
+   "titles": [
+    "Dust2 Online",
+    "Mirage Random Skills"
+   ]
+  },
+  "76561198756843436": {
+   "maps": 4,
+   "spam": 4,
+   "titles": [
+    "DUST2 Online",
+    "Mirage CHEATS",
+    "Mirage + Online"
+   ]
+  },
+  "76561199879395465": {
+   "maps": 1,
+   "spam": 1,
+   "titles": [
+    "DUST2 ONLINE"
+   ]
+  },
+  "76561199477266378": {
+   "maps": 3,
+   "spam": 3,
+   "titles": [
+    "Dust2 FPS+",
+    "AWP Lego2 Random Models",
+    "Mirage BHOP"
+   ]
+  },
+  "76561199822343702": {
+   "maps": 3,
+   "spam": 3,
+   "titles": [
+    "Dust2 Online",
+    "Mirage Random Models",
+    "Mirage BHOP"
+   ]
+  },
+  "76561199858953096": {
+   "maps": 2,
+   "spam": 2,
+   "titles": [
+    "Dust2 Online",
+    "Mirage Cheats"
+   ]
+  },
+  "76561199801717295": {
+   "maps": 4,
+   "spam": 4,
+   "titles": [
+    "Dust2 FPS+",
+    "Dust2 Online",
+    "Dust2 Random Models"
+   ]
+  },
+  "76561198230053848": {
+   "maps": 3,
+   "spam": 3,
+   "titles": [
+    "Dust2 Online",
+    "Dust2 Legacy",
+    "AWP Lego2 Random Models"
+   ]
+  },
+  "76561199859201661": {
+   "maps": 4,
+   "spam": 4,
+   "titles": [
+    "DUST2 ONLINE",
+    "DUST2 RANDOM MODELS",
+    "AWP LEGO 2 FPS ONLINE"
+   ]
+  },
+  "76561199544820511": {
+   "maps": 1,
+   "spam": 1,
+   "titles": [
+    "Dust2 (Online)"
+   ]
+  },
+  "76561199856007597": {
+   "maps": 1,
+   "spam": 1,
+   "titles": [
+    "Dust2 Winter"
+   ]
+  },
+  "76561199857298000": {
+   "maps": 4,
+   "spam": 4,
+   "titles": [
+    "Dust2 (Online)",
+    "Mirage Cheats",
+    "Mirage Brainrot + Models"
+   ]
+  },
+  "76561199049244229": {
+   "maps": 3,
+   "spam": 3,
+   "titles": [
+    "Dust2 Legacy",
+    "Dust2 Online",
+    "Mirage BHOP"
+   ]
+  },
+  "76561199858002681": {
+   "maps": 1,
+   "spam": 1,
+   "titles": [
+    "Dust2 Online\n"
+   ]
+  },
+  "76561199882092909": {
+   "maps": 1,
+   "spam": 1,
+   "titles": [
+    "DUST2 (Online)"
+   ]
+  },
+  "76561198793337768": {
+   "maps": 2,
+   "spam": 2,
+   "titles": [
+    "DUST2 Snow",
+    "Mirage CHEATS"
+   ]
+  },
+  "76561198794847389": {
+   "maps": 1,
+   "spam": 1,
+   "titles": [
+    "DUST2 FPS"
+   ]
+  },
+  "76561198253543947": {
+   "maps": 2,
+   "spam": 2,
+   "titles": [
+    "DUST2 NEW!",
+    "AWP Lego 2 SKINS!"
+   ]
+  },
+  "76561199886638597": {
+   "maps": 1,
+   "spam": 1,
+   "titles": [
+    "DUST2 FPS"
+   ]
+  },
+  "76561198791992102": {
+   "maps": 1,
+   "spam": 1,
+   "titles": [
+    "DUST2 ONLINE"
+   ]
+  },
+  "76561198755980696": {
+   "maps": 2,
+   "spam": 2,
+   "titles": [
+    "DUST2 (Online)",
+    "Mirage ONLINE"
+   ]
+  },
+  "76561199239747460": {
+   "maps": 3,
+   "spam": 1,
+   "titles": [
+    "Dust2 Aimbot"
+   ]
+  },
+  "76561199882167856": {
+   "maps": 1,
+   "spam": 1,
+   "titles": [
+    "DUST2 (Online)"
+   ]
+  },
+  "76561199609425678": {
+   "maps": 2,
+   "spam": 2,
+   "titles": [
+    "Dust2 Зима",
+    "RANDOM CHEATS"
+   ]
+  },
+  "76561199802141292": {
+   "maps": 1,
+   "spam": 1,
+   "titles": [
+    "DUST2 SNOW"
+   ]
+  },
+  "76561199877047535": {
+   "maps": 1,
+   "spam": 1,
+   "titles": [
+    "DUST2 ONLINE"
+   ]
+  },
+  "76561199859151489": {
+   "maps": 1,
+   "spam": 1,
+   "titles": [
+    "DUST2 WINTER"
+   ]
+  },
+  "76561198655366620": {
+   "maps": 5,
+   "spam": 5,
+   "titles": [
+    "DUST2 RANDOM MODELS",
+    "DUST2 RANDOM MODELS ONLINE",
+    "SANDSTONE ONLINE"
+   ]
+  },
+  "76561199655874733": {
+   "maps": 1,
+   "spam": 1,
+   "titles": [
+    "DUST2 WINTER || BASEMENT"
+   ]
+  },
+  "76561198767933658": {
+   "maps": 1,
+   "spam": 1,
+   "titles": [
+    "Dust2 from 2023"
+   ]
+  },
+  "76561199847679257": {
+   "maps": 1,
+   "spam": 1,
+   "titles": [
+    "DUST2 PINK (ONLINE)"
+   ]
+  },
+  "76561198037307274": {
+   "maps": 2,
+   "spam": 2,
+   "titles": [
+    "Dust2 | Aim Course",
+    "Aim Training - Quick WarmUp (CS2)"
+   ]
+  },
+  "76561199858003103": {
+   "maps": 3,
+   "spam": 3,
+   "titles": [
+    "Dust2 Random Skills",
+    "AWP LEGO2 Random Models",
+    "Mirage Walls"
+   ]
+  },
+  "76561199093041403": {
+   "maps": 5,
+   "spam": 5,
+   "titles": [
+    "DUST2 RANDOM MODELS ONLINE",
+    "MIRAGE CHEATS RANDOM",
+    "RANDOM CARDS (CHEATS) MIRAGE"
+   ]
+  },
+  "76561199833079841": {
+   "maps": 4,
+   "spam": 4,
+   "titles": [
+    "DUST2 RANDOM MODELS ONLINE",
+    "AWP LEGO 2 BHOP ONLINE",
+    "MANIAC HIDE AND SEEK BHOP ONLINE"
+   ]
+  },
+  "76561199166728345": {
+   "maps": 5,
+   "spam": 5,
+   "titles": [
+    "DUST2 RANDOM MODELS ONLINE",
+    "DUST2 RANDOM MODELS ONLINE",
+    "MIRAGE CHEATS RANDOM ONLINE"
+   ]
+  },
+  "76561199610472005": {
+   "maps": 4,
+   "spam": 4,
+   "titles": [
+    "Dust2 Random Models",
+    "Sandstone Models",
+    "AWP Lego2 Random Models"
+   ]
+  },
+  "76561199857661500": {
+   "maps": 2,
+   "spam": 2,
+   "titles": [
+    "DUST2 RANDOM MODELS ONLINE",
+    "MIRAGE RANDOM CHEATS"
+   ]
+  },
+  "76561199489637451": {
+   "maps": 2,
+   "spam": 2,
+   "titles": [
+    "Dust2 Random Rounds",
+    "Nuke Online"
+   ]
+  },
+  "76561199437983526": {
+   "maps": 1,
+   "spam": 1,
+   "titles": [
+    "aim_def0m1nn | botz training"
+   ]
+  },
+  "76561198326038980": {
+   "maps": 1,
+   "spam": 1,
+   "titles": [
+    "Dust 2 christmas"
+   ]
+  },
+  "76561199887692131": {
+   "maps": 1,
+   "spam": 1,
+   "titles": [
+    "Dust 2 Christmas (Зимний DUST2)"
+   ]
+  },
+  "76561198431625844": {
+   "maps": 2,
+   "spam": 2,
+   "titles": [
+    "DUST 2 FPS BOOST",
+    "INTERIAL.SU | MODELS"
+   ]
+  },
+  "76561198789578355": {
+   "maps": 1,
+   "spam": 1,
+   "titles": [
+    "DUST 2 (Сервер со скинами)"
+   ]
+  },
+  "76561198118942950": {
+   "maps": 1,
+   "spam": 1,
+   "titles": [
+    "Dust 2 [Hide and Seek]"
+   ]
+  },
+  "76561198358020820": {
+   "maps": 1,
+   "spam": 1,
+   "titles": [
+    "Dust 2 Christmas SvaRoG-GaMe.com"
+   ]
+  },
+  "76561198254192526": {
+   "maps": 2,
+   "spam": 2,
+   "titles": [
+    "CYBERZVER | RESOURCE PACK 2",
+    "КИБЕРЗВЕРЬ | ZOMBIE"
+   ]
+  },
+  "76561199858823911": {
+   "maps": 3,
+   "spam": 3,
+   "titles": [
+    "AWP LEGO2 Random Models",
+    "Inferno Online",
+    "Sandstone BHOP"
+   ]
+  },
+  "76561199115746062": {
+   "maps": 3,
+   "spam": 3,
+   "titles": [
+    "AWP Lego2 Random Models",
+    "Inferno Online",
+    "Mirage WALL"
+   ]
+  },
+  "76561199858181683": {
+   "maps": 3,
+   "spam": 3,
+   "titles": [
+    "AWP Lego2 Random Models",
+    "Mirage Random Models",
+    "Mirage Online"
+   ]
+  },
+  "76561199786659009": {
+   "maps": 3,
+   "spam": 3,
+   "titles": [
+    "Sandstone Models",
+    "Mirage Online",
+    "Mirage Random Skills"
+   ]
+  },
+  "76561198768740666": {
+   "maps": 2,
+   "spam": 2,
+   "titles": [
+    "Mirage Models",
+    "Mirage CHEATS"
+   ]
+  },
+  "76561199858809935": {
+   "maps": 1,
+   "spam": 1,
+   "titles": [
+    "Mirage Models"
+   ]
+  },
+  "76561199856456177": {
+   "maps": 4,
+   "spam": 4,
+   "titles": [
+    "Mirage Models",
+    "Mirage Cheats",
+    "AWP Lego (Online)"
+   ]
+  },
+  "76561198799418989": {
+   "maps": 2,
+   "spam": 2,
+   "titles": [
+    "Mirage Models",
+    "Inferno Online"
+   ]
+  },
+  "76561199839654244": {
+   "maps": 2,
+   "spam": 2,
+   "titles": [
+    "Sandstone Models",
+    "Mirage Online"
+   ]
+  },
+  "76561199885587102": {
+   "maps": 2,
+   "spam": 2,
+   "titles": [
+    "Mirage Models",
+    "Mirage WallHack"
+   ]
+  },
+  "76561198763494571": {
+   "maps": 2,
+   "spam": 2,
+   "titles": [
+    "Mirage MODELS + BHOP",
+    "Mirage BHOP"
+   ]
+  },
+  "76561199890641447": {
+   "maps": 1,
+   "spam": 1,
+   "titles": [
+    "Mirage Models"
+   ]
+  },
+  "76561198243999634": {
+   "maps": 3,
+   "spam": 3,
+   "titles": [
+    "Mirage Random Models",
+    "Mirage Online Models",
+    "Sandstone BHOP"
+   ]
+  },
+  "76561198880874357": {
+   "maps": 2,
+   "spam": 2,
+   "titles": [
+    "Mirage Models MSK",
+    "Inferno Online"
+   ]
+  },
+  "76561198815951125": {
+   "maps": 3,
+   "spam": 3,
+   "titles": [
+    "Mirage Random Models",
+    "Mirage Random Models",
+    "Mirage BHOP"
+   ]
+  },
+  "76561199156907769": {
+   "maps": 1,
+   "spam": 1,
+   "titles": [
+    "Mirage Random Models"
+   ]
+  },
+  "76561199529491993": {
+   "maps": 1,
+   "spam": 1,
+   "titles": [
+    "CS2|MeloRR|CustomModels"
+   ]
+  },
+  "76561199473433901": {
+   "maps": 1,
+   "spam": 1,
+   "titles": [
+    "AWP LEGO 2 MODELS"
+   ]
+  },
+  "76561199702618240": {
+   "maps": 1,
+   "spam": 1,
+   "titles": [
+    "GYMSTRIKE | SCOUTS COSMETICS"
+   ]
+  },
+  "76561199321067426": {
+   "maps": 2,
+   "spam": 2,
+   "titles": [
+    "Mirage Cheats",
+    "Mirage (Online)"
+   ]
+  },
+  "76561199878851293": {
+   "maps": 1,
+   "spam": 1,
+   "titles": [
+    "Mirage CHEATS"
+   ]
+  },
+  "76561199877406508": {
+   "maps": 3,
+   "spam": 3,
+   "titles": [
+    "Mirage Cheats",
+    "Mirage Online",
+    "Mirage Brainrot"
+   ]
+  },
+  "76561198788592675": {
+   "maps": 1,
+   "spam": 1,
+   "titles": [
+    "Mirage Cheats"
+   ]
+  },
+  "76561199857484378": {
+   "maps": 3,
+   "spam": 3,
+   "titles": [
+    "Mirage Cheats",
+    "Deathrun (Online)",
+    "Mirage Brainrot"
+   ]
+  },
+  "76561199883488760": {
+   "maps": 1,
+   "spam": 1,
+   "titles": [
+    "Mirage CHEATS"
+   ]
+  },
+  "76561199870892011": {
+   "maps": 3,
+   "spam": 3,
+   "titles": [
+    "Mirage Cheats",
+    "Mirage Bhop",
+    "Mirage WallHack"
+   ]
+  },
+  "76561198791311700": {
+   "maps": 2,
+   "spam": 2,
+   "titles": [
+    "Mirage Cheats",
+    "MIRAGE BRAINROT MODELS"
+   ]
+  },
+  "76561198760948662": {
+   "maps": 3,
+   "spam": 3,
+   "titles": [
+    "Mirage CHEATS",
+    "Mirage BrainRot",
+    "Mirage WallHack"
+   ]
+  },
+  "76561199876491594": {
+   "maps": 3,
+   "spam": 3,
+   "titles": [
+    "Mirage Cheats (Winter)",
+    "Mirage Brainrot",
+    "Mirage Brainrot (Winter)"
+   ]
+  },
+  "76561198791749771": {
+   "maps": 1,
+   "spam": 1,
+   "titles": [
+    "Mirage CHEATS"
+   ]
+  },
+  "76561199873281525": {
+   "maps": 1,
+   "spam": 1,
+   "titles": [
+    "Mirage Cheats (Online)"
+   ]
+  },
+  "76561198795176389": {
+   "maps": 2,
+   "spam": 2,
+   "titles": [
+    "Mirage Random Cheats",
+    "de_mirage_online (Online)"
+   ]
+  },
+  "76561198793518597": {
+   "maps": 1,
+   "spam": 1,
+   "titles": [
+    "Random Cheats (Online)"
+   ]
+  },
+  "76561199873490946": {
+   "maps": 2,
+   "spam": 2,
+   "titles": [
+    "MIRAGE + Random Cheats",
+    "Sandstone (Online)"
+   ]
+  },
+  "76561199678877412": {
+   "maps": 1,
+   "spam": 1,
+   "titles": [
+    "Mirage Snow + Cheats"
+   ]
+  },
+  "76561199678600898": {
+   "maps": 1,
+   "spam": 1,
+   "titles": [
+    "Mirage Winter + Cheats"
+   ]
+  },
+  "76561198118687531": {
+   "maps": 1,
+   "spam": 1,
+   "titles": [
+    "RANDOM CHEATS/ РАНДОМНЫЕ ЧИТЫ"
+   ]
+  },
+  "76561198785773497": {
+   "maps": 2,
+   "spam": 2,
+   "titles": [
+    "Mirage Winter Cheats",
+    "Mirage Brainrot"
+   ]
+  },
+  "76561198795018251": {
+   "maps": 1,
+   "spam": 1,
+   "titles": [
+    "Mirage Random Cheats Every Round"
+   ]
+  },
+  "76561199654346604": {
+   "maps": 1,
+   "spam": 1,
+   "titles": [
+    "MIRAGE CHEATS"
+   ]
+  },
+  "76561198735167853": {
+   "maps": 1,
+   "spam": 1,
+   "titles": [
+    "RANDOM CHEATS"
+   ]
+  },
+  "76561199814514550": {
+   "maps": 2,
+   "spam": 2,
+   "titles": [
+    "CHEATS RANDOM MIRAGE",
+    "MIRAGE ONLINE"
+   ]
+  },
+  "76561198683134907": {
+   "maps": 3,
+   "spam": 3,
+   "titles": [
+    "MIRAGE RANDOM CHEATS",
+    "MIRAGE RANDOM MODELS ONLINE",
+    "AWP LEGO 2 BHOP ONLINE"
+   ]
+  },
+  "76561199886447633": {
+   "maps": 2,
+   "spam": 2,
+   "titles": [
+    "MIRAGE CHEATS",
+    "MIRAGE Models Random"
+   ]
+  },
+  "76561199857521736": {
+   "maps": 2,
+   "spam": 2,
+   "titles": [
+    "MIRAGE CHEATS",
+    "MIRAGE CHEATS"
+   ]
+  },
+  "76561198845196116": {
+   "maps": 1,
+   "spam": 1,
+   "titles": [
+    "MIRAGE CHEATS"
+   ]
+  },
+  "76561198003177389": {
+   "maps": 1,
+   "spam": 1,
+   "titles": [
+    "MIRAGE (CHEATS)"
+   ]
+  },
+  "76561198805516108": {
+   "maps": 2,
+   "spam": 2,
+   "titles": [
+    "MIRAGE CHEATS",
+    "SANDSTONE (ONLINE)"
+   ]
+  },
+  "76561198792500406": {
+   "maps": 2,
+   "spam": 2,
+   "titles": [
+    "MIRAGE CHEATS",
+    "MIRAGE (ONLINE)"
+   ]
+  },
+  "76561198789142197": {
+   "maps": 1,
+   "spam": 1,
+   "titles": [
+    "MIRAGE CHEATS"
+   ]
+  },
+  "76561199875031889": {
+   "maps": 1,
+   "spam": 1,
+   "titles": [
+    "MIRAGE CHEATS"
+   ]
+  },
+  "76561198785295261": {
+   "maps": 1,
+   "spam": 1,
+   "titles": [
+    "MIRAGE CHEATS"
+   ]
+  },
+  "76561198437894426": {
+   "maps": 2,
+   "spam": 2,
+   "titles": [
+    "MIRAGE CHEATS",
+    "MIRAGE ONLINE"
+   ]
+  },
+  "76561199858483854": {
+   "maps": 2,
+   "spam": 2,
+   "titles": [
+    "MIRAGE (CHEATS)",
+    "MIRAGE CHEATS RANDOM"
+   ]
+  },
+  "76561199881237080": {
+   "maps": 1,
+   "spam": 1,
+   "titles": [
+    "MIRAGE CHEATS"
+   ]
+  },
+  "76561199878637314": {
+   "maps": 1,
+   "spam": 1,
+   "titles": [
+    "RANDOM CHEATS"
+   ]
+  },
+  "76561199876490778": {
+   "maps": 4,
+   "spam": 4,
+   "titles": [
+    "RANDOM CHEATS",
+    "RANDOM CHEATS",
+    "RANDOM CHEATS"
+   ]
+  },
+  "76561198739797066": {
+   "maps": 1,
+   "spam": 1,
+   "titles": [
+    "RANDOM CHEATS"
+   ]
+  },
+  "76561199878283555": {
+   "maps": 1,
+   "spam": 1,
+   "titles": [
+    "RANDOM CHEATS"
+   ]
+  },
+  "76561198737000108": {
+   "maps": 1,
+   "spam": 1,
+   "titles": [
+    "RANDOM CHEATS "
+   ]
+  },
+  "76561199183106871": {
+   "maps": 3,
+   "spam": 3,
+   "titles": [
+    "RANDOM SKILLS CHEATS",
+    "MIRAGE RANDOM CARDS (CHEATS)",
+    "HIDE AND SEEK (MANIAC) DOUBLE JUMP ONLINE"
+   ]
+  },
+  "76561198744910375": {
+   "maps": 2,
+   "spam": 2,
+   "titles": [
+    "RANDOM CHEATS (MIRAGE)",
+    "RANDOM EVENTS (DUST 2)"
+   ]
+  },
+  "76561199506168722": {
+   "maps": 4,
+   "spam": 4,
+   "titles": [
+    "MIRAGE RANDOM CHEATS",
+    "INFERNO RANDOM CHEATS",
+    "AWP LEGO 2 BHOP ONLINE"
+   ]
+  },
+  "76561199746902720": {
+   "maps": 5,
+   "spam": 5,
+   "titles": [
+    "MIRAGE CHEATS RANDOM",
+    "MIRAGE RANDOM CHEATS",
+    "AWP LEGO 2 ONLINE"
+   ]
+  },
+  "76561199090997388": {
+   "maps": 5,
+   "spam": 5,
+   "titles": [
+    "SANDSTONE RANDOM CHEATS",
+    "MIRAGE RANDOM CHEATS",
+    "MIRAGE ONLINE"
+   ]
+  },
+  "76561198397839156": {
+   "maps": 1,
+   "spam": 1,
+   "titles": [
+    "CHEATS RANDOM MIRAGE"
+   ]
+  },
+  "76561199594254978": {
+   "maps": 1,
+   "spam": 1,
+   "titles": [
+    "RANDOM CHEATS"
+   ]
+  },
+  "76561199521945429": {
+   "maps": 1,
+   "spam": 1,
+   "titles": [
+    "RANDOM CHEATS (MIRAGE)"
+   ]
+  },
+  "76561199858504301": {
+   "maps": 4,
+   "spam": 4,
+   "titles": [
+    "MIRAGE RANDOM CHEATS",
+    "MIRAGE RANDOM CHEATS",
+    "RANDOM CHEATS DUST2 ONLINE"
+   ]
+  },
+  "76561199562767985": {
+   "maps": 1,
+   "spam": 1,
+   "titles": [
+    "RANDOM CHEATS (MIRAGE)"
+   ]
+  },
+  "76561199630025827": {
+   "maps": 2,
+   "spam": 2,
+   "titles": [
+    "RANDOM CHEATS (MIRAGE)",
+    "RANDOM CHEATS (DUST 2)"
+   ]
+  },
+  "76561199857295920": {
+   "maps": 1,
+   "spam": 1,
+   "titles": [
+    "RANDOM CHEATS (MIRAGE)"
+   ]
+  },
+  "76561199469716198": {
+   "maps": 1,
+   "spam": 1,
+   "titles": [
+    "RANDOM CHEATS (SANDSTONE)"
+   ]
+  },
+  "76561199611259421": {
+   "maps": 1,
+   "spam": 1,
+   "titles": [
+    "RANDOM CHEATS"
+   ]
+  },
+  "76561199666536725": {
+   "maps": 1,
+   "spam": 1,
+   "titles": [
+    "RANDOM CHEATS"
+   ]
+  },
+  "76561199826882150": {
+   "maps": 1,
+   "spam": 1,
+   "titles": [
+    "ТИР — Shooting Range | Dust II"
+   ]
+  },
+  "76561199545059054": {
+   "maps": 5,
+   "spam": 5,
+   "titles": [
+    "MIRAGE CARDS RANDOM (CHEATS)",
+    "AWP LEGO 2 ONLINE",
+    "MIRAGE ONLINE"
+   ]
+  },
+  "76561199805426789": {
+   "maps": 1,
+   "spam": 1,
+   "titles": [
+    "R⁠A‌N‌D⁠O‌M‌ C​H﻿E​A‌T⁠S﻿ 2"
+   ]
+  },
+  "76561199586140504": {
+   "maps": 2,
+   "spam": 2,
+   "titles": [
+    "MIRAGE CHEAT (WH ESP)",
+    "MIRAGE ONLINE"
+   ]
+  },
+  "76561198755578887": {
+   "maps": 1,
+   "spam": 1,
+   "titles": [
+    "MIRAGE CHEAT (WH ESP)"
+   ]
+  },
+  "76561199857428652": {
+   "maps": 1,
+   "spam": 1,
+   "titles": [
+    "RANDOM CHEATS (DUST 2)"
+   ]
+  },
+  "76561199418256398": {
+   "maps": 5,
+   "spam": 5,
+   "titles": [
+    "MIRAGE FPS RANDOM CHEATS",
+    "MIRAGE CHEATS RANDOM FPS BOOST",
+    "AWP LEGO 2 SERVER ONLINE"
+   ]
+  },
+  "76561199858183407": {
+   "maps": 1,
+   "spam": 1,
+   "titles": [
+    "RANDOM CHEATS DUST 2"
+   ]
+  },
+  "76561199858246357": {
+   "maps": 1,
+   "spam": 1,
+   "titles": [
+    "RANDOM CHEATS SANDSTONE ONLINE"
+   ]
+  },
+  "76561199857478336": {
+   "maps": 2,
+   "spam": 2,
+   "titles": [
+    "MIRAGE FPS CHEATS RANDOM",
+    "AWP LEGO 2 ONLINE"
+   ]
+  },
+  "76561199174200852": {
+   "maps": 1,
+   "spam": 1,
+   "titles": [
+    "R﻿A‍N‍D﻿O⁠M‌ C﻿H‍E⁠A﻿T‍S‍ 2"
+   ]
+  },
+  "76561199470663084": {
+   "maps": 1,
+   "spam": 1,
+   "titles": [
+    "R‍A​N﻿D‌O﻿M‌ C​H⁠E‌A‌T‌S​ 2"
+   ]
+  },
+  "76561199856512754": {
+   "maps": 1,
+   "spam": 1,
+   "titles": [
+    "MIRAGE CHEATS RANDOM"
+   ]
+  },
+  "76561199858075626": {
+   "maps": 1,
+   "spam": 1,
+   "titles": [
+    "MIRAGE FPS RANDOM CHEATS ONLINE"
+   ]
+  },
+  "76561199830510174": {
+   "maps": 1,
+   "spam": 1,
+   "titles": [
+    "R‌A‍N‌D‌O﻿M‌ C‍H‌E﻿A​T‍S﻿ 2"
+   ]
+  },
+  "76561199789015291": {
+   "maps": 2,
+   "spam": 2,
+   "titles": [
+    "R​A​N‌D⁠O‍M﻿ C​H‍E﻿A⁠T​S‌ 2",
+    "R​A⁠N‍D﻿O​M﻿ C​H﻿E⁠A﻿T﻿S‍ 2"
+   ]
+  },
+  "76561199858256249": {
+   "maps": 2,
+   "spam": 2,
+   "titles": [
+    "Mirage Online",
+    "Inferno Online"
+   ]
+  },
+  "76561198765537559": {
+   "maps": 2,
+   "spam": 2,
+   "titles": [
+    "Jailbreak Online",
+    "MIRAGE Brainrot"
+   ]
+  },
+  "76561199187048750": {
+   "maps": 2,
+   "spam": 2,
+   "titles": [
+    "Inferno Online",
+    "Sandstone BHOP"
+   ]
+  },
+  "76561198773925331": {
+   "maps": 2,
+   "spam": 2,
+   "titles": [
+    "Mirage Online",
+    "FPS+ Mirage (Online)"
+   ]
+  },
+  "76561199857662793": {
+   "maps": 1,
+   "spam": 1,
+   "titles": [
+    "Inferno Online"
+   ]
+  },
+  "76561199857274968": {
+   "maps": 3,
+   "spam": 3,
+   "titles": [
+    "Mirage ONLINE",
+    "Mirage + Bhop (ONLINE)",
+    "FPS+ Mirage (Brainrot)"
+   ]
+  },
+  "76561199859682713": {
+   "maps": 3,
+   "spam": 3,
+   "titles": [
+    "Inferno Online",
+    "Mirage Online BHOP",
+    "Mirage BHOP"
+   ]
+  },
+  "76561199856589331": {
+   "maps": 2,
+   "spam": 2,
+   "titles": [
+    "Mirage + Online",
+    "AWP Lego Bhop"
+   ]
+  },
+  "76561198183077415": {
+   "maps": 1,
+   "spam": 1,
+   "titles": [
+    "Inferno Online"
+   ]
+  },
+  "76561199889348391": {
+   "maps": 2,
+   "spam": 2,
+   "titles": [
+    "Nuke Online",
+    "Sandstone BHOP"
+   ]
+  },
+  "76561199854981277": {
+   "maps": 2,
+   "spam": 2,
+   "titles": [
+    "Mirage (Online)",
+    "Mirage BHOP"
+   ]
+  },
+  "76561199857663264": {
+   "maps": 2,
+   "spam": 2,
+   "titles": [
+    "Sandstone ONLINE",
+    "FPS+ Mirage Online"
+   ]
+  },
+  "76561199857203865": {
+   "maps": 2,
+   "spam": 2,
+   "titles": [
+    "Mirage Online",
+    "Mirage BHOP"
+   ]
+  },
+  "76561199858058300": {
+   "maps": 5,
+   "spam": 5,
+   "titles": [
+    "Mirage + Online",
+    "Mirage Bhop + Online",
+    "FPS+ Dust2 (Online)"
+   ]
+  },
+  "76561198430831406": {
+   "maps": 2,
+   "spam": 2,
+   "titles": [
+    "Inferno Online",
+    "Mirage BHOP"
+   ]
+  },
+  "76561199884634654": {
+   "maps": 1,
+   "spam": 1,
+   "titles": [
+    "Mirage Online"
+   ]
+  },
+  "76561198792805522": {
+   "maps": 1,
+   "spam": 1,
+   "titles": [
+    "De_Dust2_Winter (Online)"
+   ]
+  },
+  "76561198789694805": {
+   "maps": 1,
+   "spam": 1,
+   "titles": [
+    "Nuke Online"
+   ]
+  },
+  "76561199857899190": {
+   "maps": 1,
+   "spam": 1,
+   "titles": [
+    "AWP LEGO 2 ONLINE"
+   ]
+  },
+  "76561199379426221": {
+   "maps": 2,
+   "spam": 2,
+   "titles": [
+    "Mirage Bhop (Online)",
+    "Mirage Brainrot"
+   ]
+  },
+  "76561199891114128": {
+   "maps": 2,
+   "spam": 2,
+   "titles": [
+    "de_dust2_online",
+    "Mirage Brainrot"
+   ]
+  },
+  "76561198758407016": {
+   "maps": 2,
+   "spam": 2,
+   "titles": [
+    "Mirage (Online)",
+    "Jail (Online)"
+   ]
+  },
+  "76561198918227913": {
+   "maps": 1,
+   "spam": 1,
+   "titles": [
+    "AWP LEGO 2 ONLINE"
+   ]
+  },
+  "76561199883568512": {
+   "maps": 2,
+   "spam": 2,
+   "titles": [
+    "AWP Lego \\ Online",
+    "Mirage Skins \\ Online"
+   ]
+  },
+  "76561198761296661": {
+   "maps": 2,
+   "spam": 2,
+   "titles": [
+    "Mirage Online",
+    "Mirage Brainrot"
+   ]
+  },
+  "76561199856927696": {
+   "maps": 2,
+   "spam": 2,
+   "titles": [
+    "Mirage Winter + Online",
+    "Mirage BRAINROT"
+   ]
+  },
+  "76561198892109995": {
+   "maps": 1,
+   "spam": 1,
+   "titles": [
+    "Downed Bird (WIP)"
+   ]
+  },
+  "76561199470353641": {
+   "maps": 1,
+   "spam": 1,
+   "titles": [
+    "SANDSTONE ONLINE"
+   ]
+  },
+  "76561199041837759": {
+   "maps": 2,
+   "spam": 2,
+   "titles": [
+    "MIRAGE ONLINE",
+    "SANDSTONE ONLINE"
+   ]
+  },
+  "76561199835569504": {
+   "maps": 2,
+   "spam": 1,
+   "titles": [
+    "ДЕТИ 90-ЫХ | FILES"
+   ]
+  },
+  "76561199319250574": {
+   "maps": 4,
+   "spam": 4,
+   "titles": [
+    "MIRAGE FPS BOOST ONLINE",
+    "HIDE AND SEEK JUMPS (MANIAC) ONLINE",
+    "MIRAGE ONLINE"
+   ]
+  },
+  "76561199072226150": {
+   "maps": 1,
+   "spam": 1,
+   "titles": [
+    "beztormozov.online Assets"
+   ]
+  },
+  "76561198676859306": {
+   "maps": 3,
+   "spam": 3,
+   "titles": [
+    "SANDSTONE ONLINE",
+    "MIRAGE ONLINE",
+    "MIRAGE (ONLINE)"
+   ]
+  },
+  "76561197969133864": {
+   "maps": 1,
+   "spam": 1,
+   "titles": [
+    "Quake Sound 2026"
+   ]
+  },
+  "76561199767869359": {
+   "maps": 1,
+   "spam": 1,
+   "titles": [
+    "SANDSTONE ONLINE"
+   ]
+  },
+  "76561198776749975": {
+   "maps": 1,
+   "spam": 1,
+   "titles": [
+    "ЧИЛОВЫЙ BHOP — HUD и звания"
+   ]
+  },
+  "76561198059065114": {
+   "maps": 1,
+   "spam": 1,
+   "titles": [
+    "de_frost (Unofficial port for War3CS)"
+   ]
+  },
+  "76561199804825715": {
+   "maps": 1,
+   "spam": 1,
+   "titles": [
+    "Warmup Map"
+   ]
+  },
+  "76561198629018776": {
+   "maps": 2,
+   "spam": 1,
+   "titles": [
+    "Wars Desert"
+   ]
+  },
+  "76561198848478534": {
+   "maps": 1,
+   "spam": 1,
+   "titles": [
+    "Islands [SkyWars]"
+   ]
+  },
+  "76561199843320186": {
+   "maps": 1,
+   "spam": 1,
+   "titles": [
+    "WCS2 WARCRAFT"
+   ]
+  },
+  "76561199164469382": {
+   "maps": 1,
+   "spam": 1,
+   "titles": [
+    "WardogsRush"
+   ]
+  },
+  "76561198758640320": {
+   "maps": 2,
+   "spam": 2,
+   "titles": [
+    "MIRAGE WAR 1 (Война)",
+    "MIRAGE BRAINROT"
+   ]
+  },
+  "76561198130862519": {
+   "maps": 1,
+   "spam": 1,
+   "titles": [
+    "WarCSDM | EGCS.FUN — ресурсы сервера"
+   ]
+  },
+  "76561198996299919": {
+   "maps": 1,
+   "spam": 1,
+   "titles": [
+    "BOOMBER | Warcraft Winter — Меню и ресурсы"
+   ]
+  },
+  "76561198877172829": {
+   "maps": 2,
+   "spam": 1,
+   "titles": [
+    "DANGER ZONE CS2 - SKINS KNIFE"
+   ]
+  },
+  "76561199112027984": {
+   "maps": 1,
+   "spam": 1,
+   "titles": [
+    "Nightfall HUD — Warcraft на русском"
+   ]
+  },
+  "76561199844535322": {
+   "maps": 1,
+   "spam": 1,
+   "titles": [
+    "NOKSTUDIO WAREHOUSE"
+   ]
+  },
+  "76561199641974264": {
+   "maps": 1,
+   "spam": 1,
+   "titles": [
+    "WareHouse"
+   ]
+  },
+  "76561199860172958": {
+   "maps": 1,
+   "spam": 1,
+   "titles": [
+    "RANDOM EVENTS (DUST 2)"
+   ]
+  },
+  "76561199372874920": {
+   "maps": 1,
+   "spam": 1,
+   "titles": [
+    "RANDOM MODELS (Литвин, Мелстрой, CODE80 и другие)"
+   ]
+  },
+  "76561199446060054": {
+   "maps": 1,
+   "spam": 1,
+   "titles": [
+    "RANDOM MODELS (DUST 2)"
+   ]
+  },
+  "76561199027920598": {
+   "maps": 1,
+   "spam": 1,
+   "titles": [
+    "Random Arena 4v4"
+   ]
+  },
+  "76561199137689320": {
+   "maps": 1,
+   "spam": 1,
+   "titles": [
+    "FABLECS2 Skins Menu"
+   ]
+  },
+  "76561199885922996": {
+   "maps": 4,
+   "spam": 4,
+   "titles": [
+    "sandstone: Skins",
+    "de_mirage: Skins",
+    "awp_lego_2: Skins"
+   ]
+  },
+  "76561199882714484": {
+   "maps": 4,
+   "spam": 4,
+   "titles": [
+    "SANDSTONE and SKINS",
+    "MIRAGE and SKINS",
+    "FPS+ MIRAGE and SKINS"
+   ]
+  },
+  "76561199888313626": {
+   "maps": 4,
+   "spam": 4,
+   "titles": [
+    "MIRAGE with SKINS",
+    "SANDSTONE with SKINS",
+    "AWP LEGO with SKINS"
+   ]
+  },
+  "76561199886285871": {
+   "maps": 4,
+   "spam": 4,
+   "titles": [
+    "MIRAGE and SKINS",
+    "SANDSTONE and SKINS",
+    "AWP LEGO and SKINS"
+   ]
+  },
+  "76561198795227652": {
+   "maps": 1,
+   "spam": 1,
+   "titles": [
+    "AWP LEGO 2 + SKINS"
+   ]
+  },
+  "76561199881677426": {
+   "maps": 1,
+   "spam": 1,
+   "titles": [
+    "AWP LEGO 2 ➖ SKINS"
+   ]
+  },
+  "76561199886982308": {
+   "maps": 1,
+   "spam": 1,
+   "titles": [
+    "AWP LEGO 2 - SKINS"
+   ]
+  },
+  "76561199883244967": {
+   "maps": 1,
+   "spam": 1,
+   "titles": [
+    "AWP LEGO 2 SKINS"
+   ]
+  },
+  "76561199834332819": {
+   "maps": 1,
+   "spam": 1,
+   "titles": [
+    "Ekstaler Skins"
+   ]
+  },
+  "76561199886740726": {
+   "maps": 1,
+   "spam": 1,
+   "titles": [
+    "AWP LEGO 2: SKINS"
+   ]
+  },
+  "76561198998184581": {
+   "maps": 5,
+   "spam": 5,
+   "titles": [
+    "SKINS MODELS BANNERS | V5 | FAST-PLAY",
+    "SKINS MODELS BANNERS | V3 | FAST-PLAY",
+    "SKINS MODELS BANNERS | V4 | FAST-PLAY"
+   ]
+  },
+  "76561199855397966": {
+   "maps": 1,
+   "spam": 1,
+   "titles": [
+    "Mirage Brainrot"
+   ]
+  },
+  "76561199856911674": {
+   "maps": 1,
+   "spam": 1,
+   "titles": [
+    "Mirage Brainrot"
+   ]
+  },
+  "76561199884696639": {
+   "maps": 1,
+   "spam": 1,
+   "titles": [
+    "Mirage Brainrot"
+   ]
+  },
+  "76561199871666667": {
+   "maps": 1,
+   "spam": 1,
+   "titles": [
+    "Mirage Brainrot"
+   ]
+  },
+  "76561199857284556": {
+   "maps": 1,
+   "spam": 1,
+   "titles": [
+    "Mirage Brainrot"
+   ]
+  },
+  "76561198774733466": {
+   "maps": 1,
+   "spam": 1,
+   "titles": [
+    "Mirage BRAINROT"
+   ]
+  },
+  "76561198782094028": {
+   "maps": 1,
+   "spam": 1,
+   "titles": [
+    "Mirage Random Brainrots"
+   ]
+  },
+  "76561198781965273": {
+   "maps": 1,
+   "spam": 1,
+   "titles": [
+    "MIRAGE BRAINROT"
+   ]
+  },
+  "76561199884723703": {
+   "maps": 1,
+   "spam": 1,
+   "titles": [
+    "MIRAGE BRAINROT + SKINS"
+   ]
+  },
+  "76561198307271743": {
+   "maps": 1,
+   "spam": 1,
+   "titles": [
+    "de_gray walls (dev.v.) (Source 1)"
+   ]
+  },
+  "76561198259788916": {
+   "maps": 1,
+   "spam": 1,
+   "titles": [
+    "WallBang"
+   ]
+  },
+  "76561199212260895": {
+   "maps": 1,
+   "spam": 1,
+   "titles": [
+    "Mirage WallHack"
+   ]
+  }
+ }
+}

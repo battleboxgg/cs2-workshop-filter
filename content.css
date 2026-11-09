@@ -1,0 +1,30 @@
+.cs2wf-dim { opacity: .28 !important; filter: grayscale(.8); transition: opacity .15s; }
+.cs2wf-dim:hover { opacity: .9 !important; filter: none; }
+.cs2wf-hide, .cs2wf-dup { display: none !important; }
+.cs2wf-card { position: relative; }
+.cs2wf-badge {
+  position: absolute; left: 6px; top: 6px; z-index: 50; max-width: 90%;
+  background: rgba(160, 30, 30, .92); color: #fff; font: 11px/1.3 sans-serif;
+  padding: 2px 6px; border-radius: 3px; pointer-events: none;
+}
+.cs2wf-block {
+  position: absolute; right: 6px; top: 6px; z-index: 50; display: none;
+  background: #222; color: #fff; border: 1px solid #888; font: 11px sans-serif;
+  padding: 2px 6px; border-radius: 3px; cursor: pointer;
+}
+.cs2wf-card:hover .cs2wf-block { display: block; }
+#cs2wf-bar {
+  position: fixed; right: 12px; bottom: 12px; z-index: 99999;
+  background: #1b2838; color: #fff; border: 1px solid #4b6a8a; border-radius: 6px;
+  font: 13px sans-serif; padding: 6px 10px; cursor: pointer; user-select: none;
+}
+#cs2wf-bar.off { opacity: .6; }
+
+.cs2wf-card[data-cs2wf-injected] img { opacity: 1 !important; visibility: visible !important; }
+
+.cs2wf-allow {
+  position: absolute; right: 6px; top: 30px; z-index: 50; display: none;
+  background: #1d5c2e; color: #fff; border: 1px solid #5c9; font: 11px sans-serif;
+  padding: 2px 6px; border-radius: 3px; cursor: pointer;
+}
+.cs2wf-card:hover .cs2wf-allow { display: block; }

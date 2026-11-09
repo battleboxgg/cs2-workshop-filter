@@ -1,0 +1,18 @@
+{
+  "manifest_version": 3,
+  "name": "Workshop Spam Filter for CS2",
+  "version": "1.0.0",
+  "description": "Hides fake and spam maps in the Counter-Strike 2 Steam Workshop (Cyrillic spam, auto-connect redirects, blocked authors). Not affiliated with Valve.",
+  "icons": { "16": "icons/icon16.png", "48": "icons/icon48.png", "128": "icons/icon128.png" },
+  "action": { "default_title": "Workshop Spam Filter for CS2" },
+  "permissions": ["storage"],
+  "content_scripts": [
+    {
+      "matches": ["https://steamcommunity.com/workshop/browse/*"],
+      "js": ["blocklist.js", "scoring.js", "content.js"],
+      "css": ["content.css"],
+      "run_at": "document_idle"
+    }
+  ],
+  "options_ui": { "page": "options.html", "open_in_tab": true }
+}
